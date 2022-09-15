@@ -1,3 +1,6 @@
 [submodule "dropbox-clone-substrate"]
 	path = dropbox-clone-substrate
 	url = https://github.com/ShivamAgarwal-code/dropbox-clone-substrate.git
+[submodule "substrate-kitties"]
+	path = substrate-kitties
+	url = https://github.com/ShivamAgarwal-code/substrate-kitties.git
