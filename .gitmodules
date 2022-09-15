@@ -4,3 +4,6 @@
 [submodule "substrate-kitties"]
 	path = substrate-kitties
 	url = https://github.com/ShivamAgarwal-code/substrate-kitties.git
+[submodule "substrate-node-template"]
+	path = substrate-node-template
+	url = https://github.com/ShivamAgarwal-code/substrate-node-template.git
